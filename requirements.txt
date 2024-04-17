@@ -1,4 +1,8 @@
 Mesa==2.2.4
-seaborn==0.13.2
-numpy==1.26.4
-pandas==2.2.1
+seaborn
+numpy
+pandas
+notebook==6.5.6
+
+
+     
